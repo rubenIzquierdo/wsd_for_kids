@@ -1,9 +1,8 @@
 Installation
 ===========
 
-+ 1) Download the tgz file
-+ 2) Unzip it: tar xvzf wsd_for_kids.tgz
-+ 3) run the install.sh to download and compile svmligt
++ 1) Clone the repository (git clone https://github.com/rubenIzquierdo/wsd_for_kids.git)
++ 2) run the install.sh to download and compile svmligt
 
 
 Scripts
